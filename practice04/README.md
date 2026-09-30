@@ -76,3 +76,4 @@ ___
 - Ya le estoy rntrndiendo a esto de los readme
 - noHagoNada no hace nada :b
 - Like si estas al borde de la locura o si te gusta el pan
+- "rntrndiendo"
